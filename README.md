@@ -40,4 +40,6 @@ Feel free to change the timeout in config.json to fit your needs !
 
 ## Contact
 
-Discord : " 4x31. IT#3034
+Discord : " 4x31. IT#1337
+Punchnox Project : discord.gg/punchnox
+Real n'Scam : discord.gg/ZYDJ6eVwKP
